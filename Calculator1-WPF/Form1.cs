@@ -47,45 +47,7 @@ namespace Calculator1_WPF
             this.Display.Text = this.Display.Text + this.button1.Text;
         }
 
-        private void button12_Click(object sender, EventArgs e)
-        {
-            
-        }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void button7_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void button8_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void button11_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void button10_Click(object sender, EventArgs e)
-        {
-            
-        }
 
         private void button2_Click_1(object sender, EventArgs e)
         {
